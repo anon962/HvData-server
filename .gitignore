@@ -1,0 +1,5 @@
+*.pyc
+env.py
+hvdata.sqlite
+secrets.py
+venv

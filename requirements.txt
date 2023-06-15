@@ -1,0 +1,7 @@
+attrs
+bs4
+fastapi
+requests
+sqlalchemy
+urlpath
+uvicorn
